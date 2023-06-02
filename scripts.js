@@ -39,11 +39,11 @@ if (yearOfBirth === null) {
         case "футбол":
           champion = "Кріштіано Роналдо";
           break;
-        case "теніс":
-          champion = "Роджер Федерер";
+        case "волейбол":
+          champion = "Бартош Курек";
           break;
-        case "баскетбол":
-          champion = "Майкл Джордан";
+        case "хокей":
+          champion = "Боббі Орр";
           break;
       }
 
